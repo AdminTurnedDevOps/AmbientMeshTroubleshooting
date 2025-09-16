@@ -1,3 +1,10 @@
+## Get All Ztunnel (xDS) Configurations
+
+```
+istioctl ztunnel-config all -o json
+```
+
+
 ## Pod Logs
 
 ```
